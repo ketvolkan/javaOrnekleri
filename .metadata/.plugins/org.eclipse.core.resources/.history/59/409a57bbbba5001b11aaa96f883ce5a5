@@ -1,0 +1,10 @@
+package classornek;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ogrenci volkan = new ogrenci("Volkan","Ket","Aydýn",19);
+
+	}
+
+}

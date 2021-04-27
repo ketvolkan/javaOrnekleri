@@ -1,0 +1,15 @@
+package classornek;
+
+public class ogrenci 
+{
+	String Ad,Soyad,Memleket;
+	Byte Yas;	
+	public ogrenci(String ad,String soyad,String memleket,Byte yas)
+	{
+		Ad = ad;
+		Soyad = soyad;
+		Memleket = memleket;
+		Yas = yas;
+	}
+}
+

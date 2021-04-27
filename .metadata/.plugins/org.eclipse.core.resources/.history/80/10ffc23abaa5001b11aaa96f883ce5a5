@@ -1,0 +1,14 @@
+package classornek;
+
+public class ogrenci {
+	String Ad,Soyad,Memleket;
+	Byte yas;
+	
+	public ogrenci(String ad,String soyad,String memleket,int yas)
+	{
+		
+	}
+}
+public class ogretmen {
+
+}

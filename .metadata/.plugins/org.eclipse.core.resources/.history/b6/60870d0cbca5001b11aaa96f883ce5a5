@@ -1,0 +1,20 @@
+package classornek;
+
+public class ogrenci 
+{
+	String Ad,Soyad,Memleket;
+	int Yas;
+	static int puan=50;	
+	public ogrenci(String ad,String soyad,String memleket,int i)
+	{
+		Ad = ad;
+		Soyad = soyad;
+		Memleket = memleket;
+		Yas = i;
+	}
+	public static void puanGoster() 
+	{
+		System.out.println(puan);
+	}
+}
+

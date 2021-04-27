@@ -1,0 +1,9 @@
+package classornek;
+
+public class ogrenci {
+	String Ad,Soyad;
+	sByte yas;
+}
+public class ogretmen {
+
+}

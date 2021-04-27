@@ -1,0 +1,15 @@
+package classornek;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ogrenci ogr = new ogrenci("Volkan","Ket","Aydýn",19);
+		ogretmen ogrtmn = new ogretmen("Engin","Demiroð","Bilinmiyor",30);
+		ogrtmn.katilma(volkan);
+		ogrtmn.puanDegistir(volkan, 30);
+		ogr.puanGoster();
+		ogrtmn.puanDegistir(volkan, -20);
+		ogr.puanGoster();
+	}
+
+}
