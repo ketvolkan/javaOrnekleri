@@ -13,14 +13,21 @@
     <fullyQualifiedTypeName name="inheritance.IndividualCustomer"/>
     <fullyQualifiedTypeName name="inheritance.CorporateCustomer"/>
     <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="inheritance.SendikaCustomer"/>
     <fullyQualifiedTypeName name="inheritance.Customer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="inheritance2.Logger"/>
     <fullyQualifiedTypeName name="inheritance2.CustomerManager"/>
     <fullyQualifiedTypeName name="inheritance2.EmailLogger"/>
     <fullyQualifiedTypeName name="inheritance2.DbLogger"/>
     <fullyQualifiedTypeName name="inheritance2.FileLogger"/>
+    <fullyQualifiedTypeName name="gun3Odev.Instructor"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="gun3Odev.Student"/>
+    <fullyQualifiedTypeName name="gun3Odev.User"/>
+    <fullyQualifiedTypeName name="gun3Odev.UserManager"/>
+    <fullyQualifiedTypeName name="gun3Odev.StudentManager"/>
+    <fullyQualifiedTypeName name="gun3Odev.InstructorManager"/>
 </qualifiedTypeNameHistroy>
