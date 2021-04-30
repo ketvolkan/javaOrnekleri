@@ -34,16 +34,16 @@ public class main {
 		
 		UserManager userManager1 = new StudentManager();
 		userManager1.add(ogr);
+		((StudentManager)userManager1).odevTeslim("1. Yarıyıl Vize Ödevi");
 		
 		UserManager userManager2 = new InstructorManager();
 		userManager2.add(ogretmen);
+		((InstructorManager)userManager2).showLesson(ogretmen);
+		((InstructorManager)userManager2).studentNoteChange(ogr, 10);
+	
 		
-		InstructorManager instructorManager = new InstructorManager();
-		instructorManager.showLesson(ogretmen);
-		instructorManager.studentNoteChange(ogr, 10);
+	
 		
-		StudentManager studentManager = new StudentManager();
-		studentManager.odevTeslim("1. Yarıyıl Vize Ödevi");
 		
 	}
 
