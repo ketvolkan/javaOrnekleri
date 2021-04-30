@@ -28,6 +28,6 @@
     <fullyQualifiedTypeName name="gun3Odev.Student"/>
     <fullyQualifiedTypeName name="gun3Odev.User"/>
     <fullyQualifiedTypeName name="gun3Odev.UserManager"/>
-    <fullyQualifiedTypeName name="gun3Odev.StudentManager"/>
     <fullyQualifiedTypeName name="gun3Odev.InstructorManager"/>
+    <fullyQualifiedTypeName name="gun3Odev.StudentManager"/>
 </qualifiedTypeNameHistroy>

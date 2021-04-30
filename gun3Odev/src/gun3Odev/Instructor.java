@@ -5,7 +5,7 @@ public class Instructor extends User {
 
 	private int salary;
 	private String entryDate;
-	private String job;
+	private Lessons job;
 	
 	public int getSalary() {
 		return salary;
@@ -19,10 +19,10 @@ public class Instructor extends User {
 	public void setEntryDate(String entryDate) {
 		this.entryDate = entryDate;
 	}
-	public String getJob() {
+	public Lessons getJob() {
 		return job;
 	}
-	public void setJob(String job) {
+	public void setJob(Lessons job) {
 		this.job = job;
 	}
 }
