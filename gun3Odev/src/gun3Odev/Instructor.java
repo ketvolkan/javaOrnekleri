@@ -25,4 +25,5 @@ public class Instructor extends User {
 	public void setJob(Lessons job) {
 		this.job = job;
 	}
+	
 }
