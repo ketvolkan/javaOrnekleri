@@ -21,13 +21,17 @@
     <fullyQualifiedTypeName name="inheritance2.EmailLogger"/>
     <fullyQualifiedTypeName name="inheritance2.DbLogger"/>
     <fullyQualifiedTypeName name="inheritance2.FileLogger"/>
-    <fullyQualifiedTypeName name="gun3Odev.Instructor"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="gun3Odev.Student"/>
     <fullyQualifiedTypeName name="gun3Odev.User"/>
-    <fullyQualifiedTypeName name="gun3Odev.UserManager"/>
+    <fullyQualifiedTypeName name="gun3Odev.Instructor"/>
     <fullyQualifiedTypeName name="gun3Odev.InstructorManager"/>
+    <fullyQualifiedTypeName name="gun3Odev.Student"/>
+    <fullyQualifiedTypeName name="gun3Odev.Lessons"/>
+    <fullyQualifiedTypeName name="gun3Odev.lessonsManager"/>
+    <fullyQualifiedTypeName name="gun3Odev.main"/>
+    <fullyQualifiedTypeName name="gun3Odev.UserManager"/>
     <fullyQualifiedTypeName name="gun3Odev.StudentManager"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="interfaces.ILogger"/>
 </qualifiedTypeNameHistroy>
