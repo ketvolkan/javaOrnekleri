@@ -1,4 +1,4 @@
-package Concrate;
+package Concrete;
 
 import Entities.Album;
 import Entities.Music;
